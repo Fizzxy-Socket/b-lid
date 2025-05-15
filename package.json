@@ -1,5 +1,5 @@
 {
-  "name": "@fizzxydev/baileys-pro",
+  "name": "baileys-pro",
   "version": "8.7.0",
   "description": "WhatsApp API",
   "keywords": [
@@ -11,9 +11,9 @@
     "newsletter",
     "whatsapp-bot"
   ],
-  "homepage": "https://github.com/FizzxyTheGreat/Baileyss",
+  "homepage": "npm:@fizzxydev/baileys-pro",
   "repository": {
-    "url": "git+ssh://git@github.com/FizzxyTheGreat/Baileyss.git"
+    "url": "npm:@fizzxydev/baileys-pro"
   },
   "license": "MIT",
   "author": "Adhiraj Singh",
